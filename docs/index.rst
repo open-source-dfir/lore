@@ -8,6 +8,7 @@ Open Source DFIR tools documentation
 
    Contributing to Open Source DFIR <sources/Contributing>
    Setting up an Open-Source Digital Forensics Project <sources/Project>
+   Reporting Issues <sources/Reporting Issues>
 
 
 Indices and tables
