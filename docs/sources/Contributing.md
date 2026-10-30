@@ -70,14 +70,15 @@ Tools cannot be trusted in investigations without rigorous validation.
 
 ### Contribution by research
 
-Forensic tools constantly lag behind new operating system artifacts and threat actor techniques.
+Tools routinely lag behind new artifacts and threat actor techniques. Compounding this issue, the
+broader industry understanding of these new artifacts and adversarial methods remains strictly
+superficial.
 
 * **Analyze new artifacts:** Research undocumented Windows Registry keys, log formats, or
-  application behaviors and share your findings.
+  application behaviors and share your findings. Also see:
+  [Forensics Wiki: Researching artifacts](https://forensics.wiki/researching_artifacts/)
 * **Create mapping rules:** Write or update detection signatures, such as YARA rules, Sigma rules,
-  or SQL queries for forensic search engines.
-* **Reverse engineer malware:** Provide the community with detailed technical breakdowns of
-  emerging malware behaviors that tools will need to parse.
+  or SQL queries, so others can threat hunt for these.
 
 ### Contribution by documentation
 

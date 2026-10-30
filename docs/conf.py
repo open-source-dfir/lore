@@ -35,8 +35,8 @@ autodoc_mock_imports = []
 # pylint: disable=redefined-builtin
 project = 'Open Source DFIR tools'
 copyright = 'Open Source DFIR tools authors'
-version = '20200920'
-release = '20200920'
+version = '20261030'
+release = '20261030'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
