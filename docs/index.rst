@@ -7,6 +7,7 @@ Open Source DFIR tools documentation
    :maxdepth: 2
 
    Contributing to Open Source DFIR <sources/Contributing>
+   Setting up an Open-Source Digital Forensics Project <sources/Project>
 
 
 Indices and tables
