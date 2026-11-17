@@ -25,7 +25,7 @@ Consider:
 
 * writing a [Forensics Wiki article](https://forensics.wiki/community/)
 * writing a [blog post](https://osdfir.blogspot.com/)
-* disussing it on [Open Source DFIR slack](https://github.com/open-source-dfir/slack)
+* discussing it on [Open Source DFIR slack](https://github.com/open-source-dfir/slack)
 
 ### Tools/projects that you frequently use
 
@@ -34,7 +34,7 @@ Consider:
 * Learn about the contributors and/or community guidelines of a project
 * Learn about the open source licenses and/or agreements a project uses and if you are able to
   contribute
-* Reach out to the project maintainers to see what good starter projects are. It take a while to
+* Reach out to the project maintainers to see what good starter projects are. It takes a while to
   get to learn a code base.
 
 ## Second determine how you want to contribute
